@@ -1,1 +1,3 @@
-start module 1 lesson 1 on this branch
+Switch to the following branch in order to start at the correct point for a lesson:
+  
+ - Start module 1 lesson 1 on branch `start-point-mod1-lsn1`
